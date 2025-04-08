@@ -13,6 +13,6 @@ flutter:
     platforms:
       android:
         package: com.example.uni_links
-        pluginClass: UniLinksPlugin
+        pluginClass: com.example.uni_links.UniLinksPlugin
       ios:
         pluginClass: UniLinksPlugin
